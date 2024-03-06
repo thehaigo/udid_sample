@@ -20,6 +20,7 @@ config :sample, SampleWeb.Endpoint,
     layout: false
   ],
   pubsub_server: Sample.PubSub,
+  secret_key_base: :crypto.strong_rand_bytes(32),
   live_view: [signing_salt: "+hTBIMfM"]
 
 # Configures the mailer

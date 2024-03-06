@@ -36,6 +36,7 @@ final class WebView: NSObject, WKNavigationDelegate, WKScriptMessageHandler {
         super.init()
         
         configuration.userContentController.add(self, name: "openSafari")
+        configuration.userContentController.add(self, name: "getUDID")
 
         // fixing the zoom level
         addScript(configuration, "var meta = document.createElement('meta');" +
@@ -94,6 +95,10 @@ final class WebView: NSObject, WKNavigationDelegate, WKScriptMessageHandler {
             if( UIApplication.shared.canOpenURL(url!) ) {
               UIApplication.shared.open(url!)
             }
+        case "getUDID":
+            print(UIDevice.current.identifierForVendor!.uuidString)
+            evalJavaScript(message: UIDevice.current.identifierForVendor!.uuidString)
+
         case "error":
             // You should actually handle the error :)
             let error = (message.body as? [String: Any])?["message"] as? String ?? "unknown"
@@ -102,4 +107,17 @@ final class WebView: NSObject, WKNavigationDelegate, WKScriptMessageHandler {
             assertionFailure("Received invalid message: \(message.name)")
         }
     }
+    // Native -> JS の呼び出し
+    private func evalJavaScript(message: String) {
+        let executeScript: String = "window.callFromNative(\"\(message)\");"
+        webview.evaluateJavaScript(executeScript, completionHandler: { (object, error) -> Void in
+            if let object = object {
+                print(object)
+            }
+            if let error = error {
+                print(error)
+            }
+        })
+    }
+
 }
