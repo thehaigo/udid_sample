@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/ZIPFoundation-Swift.h</key>
 		<data>
-		lMRj15xm3YGiWVywoV/dYcenmzM=
+		2dK849ylzkcUboVloiHhClbUipc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FOmwJB/ZGVWUd54moEJHqpoNDlE=
+		sxiISGpn71sLu2lmoNGXeWgD3yY=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Ek1JkHGUje09lXv8Jg95SyBc36M=
+		y22oGD6SHEOPYrUff0j4JFI4V5w=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zOUjgYq+Z9TBoysYR/ll71Rz4kY=
+		WqpvnJrGD1WaTgwpA4R+jH+TDEw=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dojY6aqDtvSgofYiKUtItzX6f2M=
+		U/kDdaZZGWbUEMyqA3NlZ1XUmMA=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GnL9lQFReiBNjbbTt4dtCTpum98=
+		8mhVAA2d1NyG79vFsibsIE8aNXA=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		joR7tZHbjjsTvxUaexSvrP15co8=
+		IAi9xq/fYFLydPd7oqBA+QIs2vo=
 		</data>
 		<key>Modules/ZIPFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VlOhFHUSzEllFzoX8Cq8LGLhMHY=
+		Ho4sThxSQ7YRdFqwjtIKwPdQ2R0=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -55,21 +55,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			db7yygrD9WUt1YC+aPmKzdQ5hPhQJ+7ejvRS1BHau+c=
+			h2i/2N3qEQHu1oBRPFroak0GKWIsM1A8bw9D8GEhUrY=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uzNYRPGipQJzqP5Emvvxy4ZdtcWLzQoLQhPELYYtx5o=
+			qxPiLpyYYNnPvpZCCXkGvQoxsMHPCkk3dcxWHkcQkqo=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/C42XM4XOYH1pUS4znIe4slAo+rja9M4tEPcYOswRFE=
+			g69QjtuqnAtCRa2OJhmAAjy1WgQchTqfQS86syhARqc=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -83,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Y9o8mrpeNyKHeThSgaQTp2lZq8jFV8e5wmUkb1DfOM=
+			2ZBxtJSO9GTVG36XOBFecithoBe0AAdZuMIFY0/Z4Pk=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0B7qrISrHO2KV2Qnc4QVvL4ykHXMhQL41lehHAaL69Y=
+			YO0ja5X9p+Qq2S3ED0SGNRKtKJQKwC25Q05cLRfpdmA=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -104,14 +104,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DjborecI22ytA+6We9BULr79kkIgitHY1DMfGKIsfPI=
+			XqL+X83fLbx3z+KM9moEWgnctPDXpFKHfJ4O+SnQrr4=
 			</data>
 		</dict>
 		<key>Modules/ZIPFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FKBczU/AenM5KRlwsVdSOGb0UGcRqShoiea+NQ+p86I=
+			K97P8taYLFoBLkPwRQ1w+TAwgxaviWDimfI4n1GrgEA=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

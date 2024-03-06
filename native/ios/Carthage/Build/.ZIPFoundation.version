@@ -1,19 +1,19 @@
 {
-  "commitish" : "0.9.18",
   "iOS" : [
     {
-      "name" : "ZIPFoundation",
-      "hash" : "797411ff0b19b189bb54f6a9afd26e63652f5b01b72c7797e3f5ce06431bec63",
       "identifier" : "ios-arm64",
+      "name" : "ZIPFoundation",
       "container" : "ZIPFoundation.xcframework",
-      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+      "hash" : "d0b366214b92c98a32122ba2289288ec0ea659b20b53779a4ea754ad59d11262",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
     },
     {
-      "hash" : "7aae23f0afbf2c5b9b3b53321023441881c096eab9bda3e25b01125421d72294",
-      "identifier" : "ios-arm64_x86_64-simulator",
-      "swiftToolchainVersion" : "5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)",
+      "name" : "ZIPFoundation",
       "container" : "ZIPFoundation.xcframework",
-      "name" : "ZIPFoundation"
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "hash" : "6ba5a57d28c4f6730634b1fc4b263697902b43ad852df3b9a248d262d8cfb968"
     }
-  ]
+  ],
+  "commitish" : "0.9.18"
 }
